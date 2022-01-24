@@ -1,0 +1,14 @@
+body {
+  background: url('../resources/backdrop.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.navbar-brand{
+    background: url('../resources/favicon.png') no-repeat;
+    background-size: 40px 40px;
+    height:40px;
+    margin:5px;
+    width:40px;
+}
